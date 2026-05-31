@@ -1,0 +1,6 @@
+{
+  "name": "OmniAI Workspace",
+  "description": "An extreme AI assistant designed for advanced multi-modal problem solving, high-fidelity coding workflows, and custom dynamic multi-language workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
